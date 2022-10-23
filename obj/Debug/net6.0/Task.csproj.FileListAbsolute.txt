@@ -1,0 +1,15 @@
+/Users/ekaterinaromanova/Desktop/HomeTasks21.10/Task/obj/Debug/net6.0/Task.csproj.AssemblyReference.cache
+/Users/ekaterinaromanova/Desktop/HomeTasks21.10/Task/obj/Debug/net6.0/Task.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ekaterinaromanova/Desktop/HomeTasks21.10/Task/obj/Debug/net6.0/Task.AssemblyInfoInputs.cache
+/Users/ekaterinaromanova/Desktop/HomeTasks21.10/Task/obj/Debug/net6.0/Task.AssemblyInfo.cs
+/Users/ekaterinaromanova/Desktop/HomeTasks21.10/Task/obj/Debug/net6.0/Task.csproj.CoreCompileInputs.cache
+/Users/ekaterinaromanova/Desktop/HomeTasks21.10/Task/bin/Debug/net6.0/Task
+/Users/ekaterinaromanova/Desktop/HomeTasks21.10/Task/bin/Debug/net6.0/Task.deps.json
+/Users/ekaterinaromanova/Desktop/HomeTasks21.10/Task/bin/Debug/net6.0/Task.runtimeconfig.json
+/Users/ekaterinaromanova/Desktop/HomeTasks21.10/Task/bin/Debug/net6.0/Task.dll
+/Users/ekaterinaromanova/Desktop/HomeTasks21.10/Task/bin/Debug/net6.0/ref/Task.dll
+/Users/ekaterinaromanova/Desktop/HomeTasks21.10/Task/bin/Debug/net6.0/Task.pdb
+/Users/ekaterinaromanova/Desktop/HomeTasks21.10/Task/obj/Debug/net6.0/Task.dll
+/Users/ekaterinaromanova/Desktop/HomeTasks21.10/Task/obj/Debug/net6.0/ref/Task.dll
+/Users/ekaterinaromanova/Desktop/HomeTasks21.10/Task/obj/Debug/net6.0/Task.pdb
+/Users/ekaterinaromanova/Desktop/HomeTasks21.10/Task/obj/Debug/net6.0/Task.genruntimeconfig.cache
